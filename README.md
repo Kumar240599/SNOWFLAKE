@@ -1,6 +1,8 @@
 Here's the same coverage list, line by line instead of a table:
 Snowflake Scripts — What Each One Covers
-Cloning.sql — Zero-copy cloning for dev/test environments
+
+Cloning.sql — Zero-copy cloning for dev/test environments|
+
 Clustering_keys.sql — Clustering keys for large table query performance
 Copy_command_options.sql — COPY INTO options for data loading
 Data_Sharing_working_session.sql — Secure data sharing across accounts
